@@ -37,5 +37,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luka254/react-hooks-react-router-routes-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luka254/react-hooks-react-router-routes-lab/issues"
+  },
+  "homepage": "https://github.com/Luka254/react-hooks-react-router-routes-lab#readme"
 }
